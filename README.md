@@ -1,10 +1,8 @@
-# image_app
+# Flutter MICard App
 
-A new Flutter project.
+Preview
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+![photo_2022-04-17_15-43-52](https://user-images.githubusercontent.com/62459983/163710181-234c9076-3763-4a23-8b7f-286dce3ccd94.jpg)
 
 A few resources to get you started if this is your first Flutter project:
 
